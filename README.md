@@ -20,5 +20,4 @@ Introducing the New Homebrew Launcher: a forwarder for the Wii's Homebrew Channe
 • You're ready to go. Go to your Wii Menu and you will see Homebrew Launcher.
 
 ## ****Credits:****
-I took a HBC Launcher from JoostinOnline (HacksDev) as basis.
 Thanks to Brickbang (Reddit) for Wii U and Nintendo Switch themes.
