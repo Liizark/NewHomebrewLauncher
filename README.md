@@ -8,10 +8,15 @@ Introducing the New Homebrew Launcher: a forwarder for the Wii's Homebrew Channe
 
 ## ****Guide:****
 • Download a ZIP archive from "Releases" tab.
+
 • Unpack ZIP and place it somewhere, but not on SD card.
+
 • Insert your SD card in your PC, and place content on it.
+
 • Launch the homebrew channel and click on "Basic Black + Wii U"
+
 • Then, click on YAWM ModMii Edition and using this, install New Homebrew Launcher.wad file.
+
 • You're ready to go. Go to your Wii Menu and you will see Homebrew Launcher.
 
 ## ****Credits:****
